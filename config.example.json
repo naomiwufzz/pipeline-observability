@@ -1,0 +1,13 @@
+{
+  "mode": "always",
+  "compareWindowDays": 7,
+  "prices": {
+    "example-model": {
+      "input": 1,
+      "output": 5,
+      "cacheRead": 0.1,
+      "cacheCreate": 1.25,
+      "discount": 1
+    }
+  }
+}
